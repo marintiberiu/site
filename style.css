@@ -162,7 +162,7 @@ a {
 }
 
 .harta {
-    height: 300px;            
+    height: 50vh;            
     margin-top: 10px;
     margin-left: 10px;
     animation-duration: 1s;
@@ -171,15 +171,15 @@ a {
 
 @keyframes marire {
     0% {
-        margin-top: 100px;                
-        margin-left: 160px;        
-        height: 10px;
+        margin-top: 25vh;                
+        margin-left: 30vh;        
+        height: 1vh;
     }
 
     100% {
         margin-top: 10px;        
         margin-left: 10px;        
-        height: 300px;        
+        height: 50vh;        
     }
 }
 
